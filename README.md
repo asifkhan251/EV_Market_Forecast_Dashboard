@@ -56,13 +56,16 @@ $$\text{Daily Incremental Energy Demand (MWh)} = \frac{\text{Projected EV Sales}
 ├── 📊 ev_sales_data.csv       # Clean relational dataset used by the web app
 ├── 📄 .gitignore              # Restricts runtime caches and local files from git tracking
 └── 📄 README.md               # Executive project documentation (This file)
+---
 
-##⚙️ Setup & Local Installation
+## ⚙️ Setup & Local Installation
+
 Follow these quick steps to set up and run this dashboard locally on your workstation:
 
-1. Initialize Project Directory
-git clone [https://github.com/asifkhan251/EV_Market_Forecast_Dashboard/edit/main/EV_Market_Forecast.git](https://github.com/asifkhan251/EV_Market_Forecast_Dashboard/edit/main/EV_Market_Forecast.git)
-cd ev-market-forecast-dashboard
+### 1. Initialize Project Directory
+```bash
+git clone https://github.com/asifkhan251/EV_Market_Forecast_Dashboard.git
+cd EV_Market_Forecast_Dashboard
 2. Install Dependencies
 Ensure you have Python environment configured, then run:
 pip install streamlit pandas numpy plotly scikit-learn
