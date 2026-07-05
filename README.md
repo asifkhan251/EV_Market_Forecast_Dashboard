@@ -56,8 +56,7 @@ $$\text{Daily Incremental Energy Demand (MWh)} = \frac{\text{Projected EV Sales}
 ├── 📊 ev_sales_data.csv       # Clean relational dataset used by the web app
 ├── 📄 .gitignore              # Restricts runtime caches and local files from git tracking
 └── 📄 README.md               # Executive project documentation (This file)
-'''
-----
+
 ##⚙️ Setup & Local Installation
 Follow these quick steps to set up and run this dashboard locally on your workstation:
 
@@ -76,7 +75,6 @@ Bash
 Bash
 ```streamlit run app.py```
 The application will instantly launch in your default web browser at http://localhost:8501
----
 ##💡 Engineering Insights Provided
 Grid Readiness Mapping: Pinpoints the exact target year when regional distribution utilities must upgrade localized substations and distribution transformers to handle peak residential charging loads.
 
