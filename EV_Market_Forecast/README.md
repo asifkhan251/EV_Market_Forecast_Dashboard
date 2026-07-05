@@ -59,7 +59,7 @@ $$\text{Daily Incremental Energy Demand (MWh)} = \frac{\text{Projected EV Sales}
 Follow these quick steps to set up and run this dashboard locally on your workstation:
 
 1. Initialize Project Directory
-git clone [https://github.com/Asifkhan251/ev-market-forecast-dashboard.git](https://github.com/Asifkhan251/ev-market-forecast-dashboard.git)
+git clone [https://github.com/asifkhan251/EV_Market_Forecast_Dashboard/edit/main/EV_Market_Forecast.git](https://github.com/asifkhan251/EV_Market_Forecast_Dashboard/edit/main/EV_Market_Forecast.git)
 cd ev-market-forecast-dashboard
 2. Install Dependencies
 Ensure you have Python environment configured, then run:
